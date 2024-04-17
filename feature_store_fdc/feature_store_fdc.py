@@ -63,7 +63,7 @@ olist_customers_source = SnowflakeSource(
 olist_customers_fv = FeatureView(
     name="olist_customers_fv",
     entities=[customer, customer_zip_code_prefix],
-    ttl=timedelta(weeks=52 * 10),
+#     ttl=timedelta(weeks=52 * 10),
     schema=[
         Field(name="CUSTOMER_ID", dtype=String),
         Field(name="CUSTOMER_UNIQUE_ID", dtype=String),
