@@ -279,10 +279,9 @@ product_category_stats_source = SnowflakeSource(
 #     return df
 #
 #
-# customer_orders_fs = FeatureService(
-#     name="customer_orders_fs",
-#     features=[olist_customers_fv, order_items_fv, order_payments_fv, orders_fv, transformed_dollar_to_inr,
-#               time_taken_to_approve]
-# )
-#
+customer_orders_fs = FeatureService(
+    name="customer_orders_fs",
+    features=[olist_customers_fv, order_items_fv, order_payments_fv, orders_fv]
+)
+
 #
