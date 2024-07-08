@@ -220,3 +220,25 @@
                     process_default : 172 — /notebooks/notebooks/Untitled11.ipynb
 2024-07-08 15:19:17,594 — app — INFO — /app/app.py - app - 
                     process_default : 173 — value of name Untitled11.ipynb
+2024-07-08 15:19:33,179 — app — INFO — /app/app.py - app - 
+                    process_default : 153 — Inside rename file/dir
+2024-07-08 15:19:33,180 — app — INFO — /app/app.py - app - 
+                    process_default : 157 — value of new_name bt.ipynb
+2024-07-08 15:19:33,180 — app — INFO — /app/app.py - app - 
+                    process_default : 158 — value of old_name Untitled10.ipynb
+2024-07-08 15:19:34,816 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-08 15:19:34,816 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-08 15:19:34,816 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/bt.ipynb
+2024-07-08 15:19:34,816 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name bt.ipynb
+2024-07-08 15:19:34,823 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-08 15:19:34,823 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-08 15:19:34,823 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/bt.ipynb
+2024-07-08 15:19:34,823 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name bt.ipynb
