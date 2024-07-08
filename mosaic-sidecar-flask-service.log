@@ -242,3 +242,19 @@
                     process_default : 172 — /notebooks/notebooks/bt.ipynb
 2024-07-08 15:19:34,823 — app — INFO — /app/app.py - app - 
                     process_default : 173 — value of name bt.ipynb
+2024-07-08 15:19:38,167 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-08 15:19:38,167 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-08 15:19:38,167 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/bt.ipynb
+2024-07-08 15:19:38,167 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name bt.ipynb
+2024-07-08 15:19:38,175 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-08 15:19:38,175 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-08 15:19:38,175 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/bt.ipynb
+2024-07-08 15:19:38,175 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name bt.ipynb
