@@ -74,7 +74,7 @@ olist_customers_fv = FeatureView(
     source=olist_customers_source,
     tags={"team": "customers"},
 )
-
+print('1')
 # OLIST_GEOLOCATION data source
 retail_stats_source = SnowflakeSource(
     database=yaml.safe_load(open("feature_store.yaml"))["offline_store"]["database"],
