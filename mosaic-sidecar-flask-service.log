@@ -1,0 +1,40 @@
+2024-07-08 14:13:32,032 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-08 14:13:32,032 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name -1001
+2024-07-08 14:13:32,032 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .Trash-1001
+2024-07-08 14:13:32,032 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
+2024-07-08 14:13:32,039 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-08 14:13:32,039 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name info
+2024-07-08 14:13:32,039 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .Trash-1001/info
+2024-07-08 14:13:32,039 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
+2024-07-08 14:13:32,046 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-08 14:13:32,046 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name files
+2024-07-08 14:13:32,046 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .Trash-1001/files
+2024-07-08 14:13:32,046 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
+2024-07-08 14:13:32,051 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-08 14:13:32,051 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name hinfo
+2024-07-08 14:13:32,051 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .Trash-1001/info/newProm.ipynb.trashinfo
+2024-07-08 14:13:32,051 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
+2024-07-08 14:13:32,056 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-08 14:13:32,057 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name ipynb
+2024-07-08 14:13:32,057 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .Trash-1001/files/newProm.ipynb
+2024-07-08 14:13:32,057 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
