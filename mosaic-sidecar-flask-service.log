@@ -384,3 +384,19 @@
                     process_default : 157 — value of new_name t20.ipynb
 2024-07-09 07:40:11,120 — app — INFO — /app/app.py - app - 
                     process_default : 158 — value of old_name Untitled10.ipynb
+2024-07-09 07:40:14,756 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 07:40:14,756 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 07:40:14,757 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/t20.ipynb
+2024-07-09 07:40:14,757 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name t20.ipynb
+2024-07-09 07:40:14,777 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 07:40:14,778 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 07:40:14,778 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/t20.ipynb
+2024-07-09 07:40:14,778 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name t20.ipynb
