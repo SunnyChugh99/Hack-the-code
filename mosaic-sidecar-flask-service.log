@@ -894,3 +894,67 @@
                     process_default : 143 — value of name .ipynb_checkpoints
 2024-07-09 12:49:39,162 — app — INFO — /app/app.py - app - 
                     process_default : 144 — true
+2024-07-09 12:49:58,497 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:49:58,497 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:49:58,497 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:49:58,497 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:49:58,504 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:49:58,504 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:49:58,504 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:49:58,504 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:49:59,928 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:49:59,928 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:49:59,928 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:49:59,928 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:49:59,935 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:49:59,935 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:49:59,935 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:49:59,935 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:50:00,906 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:50:00,906 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:50:00,906 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:50:00,906 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:50:00,913 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:50:00,913 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:50:00,913 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:50:00,913 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:50:02,275 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:50:02,275 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:50:02,275 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:50:02,275 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
+2024-07-09 12:50:02,282 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-09 12:50:02,282 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-09 12:50:02,282 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/t20.ipynb
+2024-07-09 12:50:02,282 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name t20.ipynb
