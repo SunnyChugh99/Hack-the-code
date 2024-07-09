@@ -346,3 +346,19 @@
                     process_default : 143 — value of name .ipynb_checkpoints
 2024-07-09 07:34:50,472 — app — INFO — /app/app.py - app - 
                     process_default : 144 — true
+2024-07-09 07:34:55,094 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 07:34:55,094 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 07:34:55,094 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/Untitled10.ipynb
+2024-07-09 07:34:55,094 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name Untitled10.ipynb
+2024-07-09 07:34:55,104 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 07:34:55,104 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 07:34:55,104 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/Untitled10.ipynb
+2024-07-09 07:34:55,105 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name Untitled10.ipynb
