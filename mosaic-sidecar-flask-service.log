@@ -750,3 +750,11 @@
                     process_default : 143 — value of name .ipynb_checkpoints
 2024-07-09 12:05:07,594 — app — INFO — /app/app.py - app - 
                     process_default : 144 — true
+2024-07-09 12:30:32,977 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-09 12:30:32,978 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name oints
+2024-07-09 12:30:32,978 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name .ipynb_checkpoints
+2024-07-09 12:30:32,978 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
