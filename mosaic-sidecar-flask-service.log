@@ -606,3 +606,19 @@
                     process_default : 157 — value of new_name .Trash-1001/files/testJob.ipynb
 2024-07-09 08:13:22,454 — app — INFO — /app/app.py - app - 
                     process_default : 158 — value of old_name testJob.ipynb
+2024-07-09 08:14:10,197 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 08:14:10,197 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 08:14:10,197 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/t20.ipynb
+2024-07-09 08:14:10,197 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name t20.ipynb
+2024-07-09 08:14:10,204 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-09 08:14:10,205 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-09 08:14:10,205 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/t20.ipynb
+2024-07-09 08:14:10,205 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name t20.ipynb
