@@ -1014,3 +1014,9 @@
                     process_default : 171 — /notebooks/notebooks/Untitled10.ipynb
 2024-07-10 06:52:40,254 — app — INFO — /app/app.py - app - 
                     process_default : 172 — value of name Untitled10.ipynb
+2024-07-10 06:53:02,169 — app — INFO — /app/app.py - app - 
+                    process_default : 153 — Inside rename file/dir
+2024-07-10 06:53:02,169 — app — INFO — /app/app.py - app - 
+                    process_default : 157 — value of new_name abcdef.ipynb
+2024-07-10 06:53:02,169 — app — INFO — /app/app.py - app - 
+                    process_default : 158 — value of old_name Untitled10.ipynb
