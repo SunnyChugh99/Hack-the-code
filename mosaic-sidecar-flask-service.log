@@ -1202,3 +1202,41 @@
                     process_default : 171 — /notebooks/notebooks/Untitled10.ipynb
 2024-07-10 07:09:29,034 — app — INFO — /app/app.py - app - 
                     process_default : 172 — value of name Untitled10.ipynb
+2024-07-10 07:09:33,703 — app — INFO — /app/app.py - app - 
+                    process_default : 153 — Inside rename file/dir
+2024-07-10 07:09:33,703 — app — INFO — /app/app.py - app - 
+                    process_default : 157 — value of new_name code.ipynb
+2024-07-10 07:09:33,703 — app — INFO — /app/app.py - app - 
+                    process_default : 158 — value of old_name Untitled10.ipynb
+2024-07-10 07:09:34,661 — app — INFO — /app/app.py - app - 
+                    process_default : 139 — Inside event in create
+2024-07-10 07:09:34,661 — app — INFO — /app/app.py - app - 
+                    process_default : 140 — Event name ipynb
+2024-07-10 07:09:34,662 — app — INFO — /app/app.py - app - 
+                    process_default : 143 — value of name Untitled10.ipynb
+2024-07-10 07:09:34,662 — app — INFO — /app/app.py - app - 
+                    process_default : 144 — true
+2024-07-10 07:09:34,669 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-10 07:09:34,669 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-10 07:09:34,669 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/Untitled10.ipynb
+2024-07-10 07:09:34,670 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name Untitled10.ipynb
+2024-07-10 07:09:36,393 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-10 07:09:36,393 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-10 07:09:36,394 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/code.ipynb
+2024-07-10 07:09:36,394 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name code.ipynb
+2024-07-10 07:09:36,400 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-10 07:09:36,400 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-10 07:09:36,400 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/code.ipynb
+2024-07-10 07:09:36,401 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name code.ipynb
