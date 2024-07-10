@@ -1098,3 +1098,19 @@
                     process_default : 157 — value of new_name baseN.ipynb
 2024-07-10 07:00:31,792 — app — INFO — /app/app.py - app - 
                     process_default : 158 — value of old_name Untitled10.ipynb
+2024-07-10 07:00:34,950 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-10 07:00:34,950 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-10 07:00:34,950 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/baseN.ipynb
+2024-07-10 07:00:34,950 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name baseN.ipynb
+2024-07-10 07:00:34,957 — app — INFO — /app/app.py - app - 
+                    process_default : 168 — Inside event in modify
+2024-07-10 07:00:34,957 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Event name ipynb
+2024-07-10 07:00:34,957 — app — INFO — /app/app.py - app - 
+                    process_default : 171 — /notebooks/notebooks/baseN.ipynb
+2024-07-10 07:00:34,957 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — value of name baseN.ipynb
