@@ -1280,3 +1280,19 @@
                     process_default : 172 — /notebooks/notebooks/abcdef.ipynb
 2024-07-16 08:31:14,860 — app — INFO — /app/app.py - app - 
                     process_default : 173 — value of name abcdef.ipynb
+2024-07-16 08:31:26,644 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-16 08:31:26,644 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-16 08:31:26,644 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/abcdef.ipynb
+2024-07-16 08:31:26,644 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name abcdef.ipynb
+2024-07-16 08:31:26,651 — app — INFO — /app/app.py - app - 
+                    process_default : 169 — Inside event in modify
+2024-07-16 08:31:26,651 — app — INFO — /app/app.py - app - 
+                    process_default : 170 — Event name ipynb
+2024-07-16 08:31:26,651 — app — INFO — /app/app.py - app - 
+                    process_default : 172 — /notebooks/notebooks/abcdef.ipynb
+2024-07-16 08:31:26,651 — app — INFO — /app/app.py - app - 
+                    process_default : 173 — value of name abcdef.ipynb
