@@ -19,4 +19,4 @@ import sys
 print("Python version")
 print (sys.version)
 
-print(f'*Import working with - {-----------------------*')
+print(f'*Import working with - {sys.version}---------------*')
