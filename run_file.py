@@ -10,3 +10,6 @@ except:
   print("os.environ['FDC_TEST'] not availble")
 
 print('*RUN COMPLETE-----------------------*')
+
+
+import fosforml
