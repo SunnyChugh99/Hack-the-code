@@ -6,4 +6,5 @@ print('*----------------------------------*')
 # Access and print the 'HOME' environment variable.
 try:
   print(os.environ['FDC_TEST'])
-e
+except:
+  
