@@ -8,3 +8,4 @@ try:
   print(os.environ['FDC_TEST'])
 except:
   print("os.environ['FDC_TEST'] not availble")
+
