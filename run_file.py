@@ -4,4 +4,4 @@ import os
 print('*----------------------------------*')
 
 # Access and print the 'HOME' environment variable.
-print(os.environ['HOME'])
+print(os.environ['FDC_'])
