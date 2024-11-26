@@ -9,4 +9,4 @@ try:
 except:
   print("os.environ['FDC_TEST'] not availble")
 
-print('*----------------------------------*')
+print('*RUN COMPLETE--------------------------------*')
