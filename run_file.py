@@ -13,5 +13,6 @@ print('*RUN COMPLETE-----------------------*')
 
 
 import fosforml
+from fdc_connector_python_sdk.factory.connectorFactory import ConnectionFactory
 
 print('*Import working -----------------------*')
