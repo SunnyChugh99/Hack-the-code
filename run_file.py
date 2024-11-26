@@ -9,3 +9,4 @@ try:
 except:
   print("os.environ['FDC_TEST'] not availble")
 
+print('*----------------------------------*')
