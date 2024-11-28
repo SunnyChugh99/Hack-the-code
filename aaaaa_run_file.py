@@ -1,28 +1,19 @@
-# import os
+import os
 
-# # Print a separator for clarity.
-# print('*----------------------------------*')
+# Print a separator for clarity.
+print('*----------------------------------*')
 
-# # Access and print the 'HOME' environment variable.
-# try:
-#   print(os.environ['FDC_TEST'])
-# except:
-#   print("os.environ['FDC_TEST'] not availble")
+# Access and print the 'HOME' environment variable.
+try:
+  print(os.environ['FDC_TEST'])
+except:
+  print("os.environ['FDC_TEST'] not availble")
 
-# print('*RUN COMPLETE-----------------------*')
-
-
-# import fosforml
-# from fdc_connector_python_sdk.factory.connectorFactory import ConnectionFactory
-# import sys
-
-# print(f'*Import working with - {sys.version}---------------*')
+print('*RUN COMPLETE-----------------------*')
 
 
+import fosforml
+from fdc_connector_python_sdk.factory.connectorFactory import ConnectionFactory
+import sys
 
-directories = []
-    for entry in os.listdir(path):
-        full_path = os.path.join(path, entry)
-        if os.path.isdir(full_path):
-            directories.append(entry)
-    return directories
+print(f'*Import working with - {sys.version}---------------*')
