@@ -59,4 +59,18 @@ model.fit(x_train,y_train)
 y_pred = pd.DataFrame(model.predict(x_test),columns=["Predicted"])
 
 
-
+from fosforml import register_model
+register_model(
+  model_obj=model,
+  session=session,
+  x_train=x_train,
+  y_train=y_train,
+  x_test=x_test,
+  y_test=y_test,
+  y_pred=y_pred,
+  name="SklearnBinaryModel",
+  description="This is a test sklearn model",
+  flavour="sklearn",
+  model_type="classification",
+  conda_dependencies=["scikit-learn==1.3.2"]
+)
