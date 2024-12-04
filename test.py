@@ -1,1 +1,1 @@
-print(o)
+print(os.getenv())
