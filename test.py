@@ -1,2 +1,2 @@
-im
+import os
 print(os.getenv())
