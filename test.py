@@ -1,2 +1,2 @@
 import os
-print(os.getenv("Secure"))
+print(os.getenv)
