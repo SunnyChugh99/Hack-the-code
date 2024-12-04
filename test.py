@@ -1,2 +1,2 @@
 import os
-print(os.environ["userId"])
+print(os.environ["objectName"])
