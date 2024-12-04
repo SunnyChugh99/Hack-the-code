@@ -1,2 +1,2 @@
 import os
-print(os.getenv("abcd"))
+print(os.environ["abcd"))
