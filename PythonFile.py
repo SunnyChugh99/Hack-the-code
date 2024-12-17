@@ -24,7 +24,7 @@ observer.start()
 try:
     while True:
         mins_since_last_modified = handler.get_mins_since_last_modified()  # Use the handler instance to get the minutes since last modified
-        print(f"Minutes since last modified: {mins_since_last_modified:.2f}")
+        print(f"Minutes since last modified: {mins_since_last_modified}")
         time.sleep(1)
 except KeyboardInterrupt:
     observer.stop()
