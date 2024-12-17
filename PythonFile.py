@@ -14,7 +14,7 @@ class MyHandler(FileSystemEventHandler):
         mins_since_last_modified = (current_time - self.last_modified_time) / 60
         return mins_since_last_modified
 
-destination = '/n'
+destination = '/notebooks/notebooks/'
 
 observer = Observer()
 observer.schedule(MyHandler(), destination, recursive=True)
