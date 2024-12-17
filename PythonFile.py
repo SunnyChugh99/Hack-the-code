@@ -18,7 +18,7 @@ destination = '/notebooks/notebooks/'
 
 handler = MyHandler()  # Create the handler instance
 observer = Observer()
-observer.schedule(handler, destination, recursive=True)  # Pass the handler instance to the observer
+observer.schedule(handler, destination, recursive=False)  # Pass the handler instance to the observer
 observer.start()
 
 try:
