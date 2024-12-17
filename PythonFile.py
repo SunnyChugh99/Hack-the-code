@@ -11,7 +11,7 @@ class MyHandler(FileSystemEventHandler):
 
     def get_mins_since_last_modified(self):
         current_time = time.time()
-        mins_since_last_modified = ((current_time - self.last_modified_time) / 60)
+        mins_since_last_modified = ((current_time - self.last_modified_time)/60)
         return mins_since_last_modified
 
 destination = '/notebooks/notebooks/'
