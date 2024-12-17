@@ -3,8 +3,6 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 class MyHandler(FileSystemEventHandler):
-    def __init__(self
-
     def on_modified(self, event):
         self.last_modified_time = time.time()
 
