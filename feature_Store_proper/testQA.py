@@ -3,6 +3,7 @@ from datetime import timedelta
 import pandas as pd
 import yaml
 
+
 from feast import (
     Entity,
     FeatureService,
