@@ -1,4 +1,5 @@
 import os
+test
 
 # Print a separator for clarity.
 print('*----------------------------------*')
