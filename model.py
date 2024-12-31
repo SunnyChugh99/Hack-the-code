@@ -1,4 +1,5 @@
-import timeclass MyClass:
+import timeclass 
+MyClass:
     def __init__(self):
         self.data = []
 def main():
