@@ -1,0 +1,11 @@
+prefix=/notebooks/notebooks
+exec_prefix=/notebooks/notebooks
+libdir=/notebooks/notebooks/lib
+includedir=/notebooks/notebooks/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
