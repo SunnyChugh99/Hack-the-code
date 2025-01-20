@@ -1,4 +1,4 @@
-import time
+import tim
 print(" 10 sec Testing long job started ")
 
 time.sleep(10)
